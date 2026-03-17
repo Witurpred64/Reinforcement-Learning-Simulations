@@ -1,7 +1,7 @@
 
 # Reinforcement Learning Simulations
 
-This repository hosts implementations and simulations of various Reinforcement Learning (RL) algorithms. It covers fundamental concepts, classic algorithms like Q-learning and SARSA, and more advanced policy-gradient methods such as DQN, PPO, and A2C.
+This repository hosts implementations and simulations of various Reinforcement Learning (RL) algorithms. It covers fundamental concepts, classic algorithms like Q-learning and SARSA, and more advanced policy-gradient methods suchs as DQN, PPO, and A2C.
 
 ## Algorithms Implemented
 - **Value-Based Methods:** Q-Learning, SARSA, Deep Q-Networks (DQN).
